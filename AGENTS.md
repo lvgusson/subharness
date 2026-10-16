@@ -39,7 +39,7 @@ Replace these rows with your own layout. Keep one row for each top-level area.
 2. Load the skills for your task type before you read or edit any file (see "Skills policy").
 3. Read the matching `AI/` note.
 4. Make the change.
-5. Run the review skills (code changes only).
+5. Run the review skills (code changes only) and the role checklists in `AI/jobs/index.md`.
 6. Run `<CHECK_COMMAND>`. It must pass. Report the command and its result, not just "done".
 7. Update the knowledge base (below).
 8. Close out the task in `<TASK_TRACKER>`.

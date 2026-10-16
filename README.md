@@ -14,6 +14,7 @@ AI/                       knowledge base (an Obsidian vault)
   memory/                 session memory: recall, compaction, format, _template/
   decisions/              decision records (ADR template)
   patterns/               design pattern notes (empty, with a template)
+  jobs/                   role checklists (self-review gates), with placeholders
 .agents/
   skills/                 generic agent skills, copied as-is from public sources
   orchestration.md        optional multi-agent orchestration rules

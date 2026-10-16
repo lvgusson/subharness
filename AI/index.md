@@ -15,6 +15,7 @@ Add one line for each area hub (for example `AI/backend/backend`). Keep every li
 
 - [[AI/patterns/README]]: Design patterns in use and the template for a pattern note.
 - [[AI/decisions/0000-template]]: Template for a decision record (ADR).
+- [[AI/jobs/index]]: Table of role checklists to run before you report a task done.
 - [[AI/memory/memory]]: Hub of session memory: when to use it, the notes, the sessions.
 
 ## Related
